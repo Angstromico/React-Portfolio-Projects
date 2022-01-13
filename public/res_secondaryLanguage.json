@@ -1,0 +1,314 @@
+{
+  "basic_info": {
+    "description_header": "Hola",
+    "description": "👋 Este portafolio está hecho para mostrar mi trabajo en la librería de JavaScript React, para ver la totalidad de mis proyectos visita mi portafolio principal en el boton de abajo 💜",
+    "section_name": {
+      "about": "Acerca de mi",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "Aseguradora de Automoviles",
+      "startDate": "2020",
+      "description": "Una app para escoger seguro de autos",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-Ensure-App/master/ensure.png",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://manuel-morales-ensure-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Reseñador de Colores",
+      "startDate": "2021",
+      "description": "Una app en React que hice gracias al libro: 'he Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js'",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/color-ranking/master/color.png",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Buscador de Cockteles",
+      "startDate": "2015",
+      "description": "Una app para buscar y encontrar cocktails, mediante la consulta de una API",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/react-api-drinks/master/drinks.png",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://manuel-morales-react-drinks-app.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Carrito de compras",
+      "startDate": "2021",
+      "description": "Carrito de Compras en React",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/react-shopping-cart/master/cart.png",
+        "images/portfolio/cart/p2.png"
+      ],
+      "url": "https://manuel-morales-react-shopping-cart.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Stripe App",
+      "startDate": "2021",
+      "description": "Una app que hace una gran presentación en el header",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/react-header-strive/master/stripe.png",
+        "images/portfolio/stripe/p2.png"
+      ],
+      "url": "https://manuel-morales-modal-header-stripe-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Show Modal",
+      "startDate": "2020",
+      "description": "Aplicación para mostrar el modal y la barra lateral de navegación con el poder de React.",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-Modal-App/master/screencapture.png",
+        "images/portfolio/modal.png"
+      ],
+      "url": "https://manuel-morales-modal-sidebar-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Creador de Objetos",
+      "startDate": "2020",
+      "description": "Creadora de objetos en React",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-Groseries-App/master/groseries.png",
+        "images/portfolio/mycode.png"
+      ],
+      "url": "https://manuel-morales-groseries-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Generador de Gradiente de Colores",
+      "startDate": "2021",
+      "description": "Una app que usa la librería Value.js para generar paletas de colores",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/App-Color-Gradient-React-/master/screencapture-localhost-3000-2021-12-05-19_45_54.png",
+        "images/portfolio/gradient.png"
+      ],
+      "url": "https://manuel-morales-color-gradient-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Generador de Dummy Text",
+      "startDate": "2021",
+      "description": "Generador de Dummy Text parecido al Lorem Ipsum",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/Dummy-Text-Generator/master/Ipsum.png",
+        "images/portfolio/dummy.png"
+      ],
+      "url": "https://dummy-text-generator-manuel-morales.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "SLider de Habilidades",
+      "startDate": "2021",
+      "description": "Esta aplicación muestra mis habilidades en diseño web en un carrusel interactivo",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-App-Skills/master/MySkills.png",
+        "images/portfolio/skilled.png"
+      ],
+      "url": "https://manuel-morales-skilled.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Comida Rápida Web",
+      "startDate": "2020",
+      "description": "Aplicación que simula una pagina web de cómida rápida",
+      "images": ["images/portfolio/13.png", "images/portfolio/Hot.png"],
+      "url": "https://manuelmoralesfoodreactapp.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Mis Profesores",
+      "startDate": "2021",
+      "description": "Aquí te muestro una parte de la gente que me enseño este negocio",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/AppReact-MyTeachers/master/appteachers.png",
+        "images/portfolio/mozzy.png"
+      ],
+      "url": "https://appreact-manuelmorales-teachers.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Turismo Sudamericano",
+      "startDate": "2021",
+      "description": "App para mostrar sitios turisticos",
+      "images": ["images/portfolio/vene.png", "images/portfolio/colombia.png"],
+      "url": "https://reactapp-turismo-sudamerica.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Cumpleaños App",
+      "startDate": "2020",
+      "description": "Una aplicación de cumpleaños que hice en Reach js siguiendo el curso de adicto a la codificación en youtube, puse un formulario que le permite al usuario ponerse a sí mismo o a quien quiera en la aplicación",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/BirtdayApp-React/master/manuel-morales-birtday-app.netlify.app_%20(1).png",
+        "images/portfolio/Woohum.png"
+      ],
+      "url": "https://reactapp-turismo-sudamerica.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - obecnie",
+      "mainTech": ["Angular 8/9/10"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Stażystka",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Swagger",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}

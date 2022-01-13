@@ -1,0 +1,310 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 This portfolio is made to show my work in the JavaScript React library, to see all of my projects visit my main portfolio in the button below 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "button": "My Work"
+    }
+  },
+  "projects": [
+    {
+      "title": "Car Insurance",
+      "startDate": "2020",
+      "description": "An App to pick a Car Insurance.",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-Ensure-App/master/ensure.png",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://manuel-morales-ensure-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Color Ranking",
+      "startDate": "2021",
+      "description": "A React App I made by learning with the book 'The Road to Learn React: Your Journey to Master Plain Yet Pragmatic React. Js'",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/color-ranking/master/color.png",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://manuel-morales-react-color-ranking.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Cocktails Searcher",
+      "startDate": "2021",
+      "description": "An app to search and find cocktails, by consulting an API",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/react-api-drinks/master/drinks.png",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://manuel-morales-react-drinks-app.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Shopping Cart",
+      "startDate": "2021",
+      "description": "Shopping Cart Made it on React",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/react-shopping-cart/master/cart.png",
+        "images/portfolio/cart/p2.png"
+      ],
+      "url": "https://manuel-morales-react-shopping-cart.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Stripe App",
+      "startDate": "2021",
+      "description": "An app that performes a great header Presentation.",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/react-header-strive/master/stripe.png",
+        "images/portfolio/stripe/p2.png"
+      ],
+      "url": "https://manuel-morales-modal-header-stripe-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Show Modal",
+      "startDate": "2020",
+      "description": "App to Show the Modal and the Sidebar Nav with the Power of React.",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-Modal-App/master/screencapture.png",
+        "images/portfolio/modal.png"
+      ],
+      "url": "https://manuel-morales-modal-sidebar-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Items Creator",
+      "startDate": "2020",
+      "description": "A App to create items on React.",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-Groseries-App/master/groseries.png",
+        "images/portfolio/mycode.png"
+      ],
+      "url": "https://manuel-morales-groseries-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Color Gradient Generator",
+      "startDate": "2021",
+      "description": "A App that use a library called Value.js to Create Colors gradients",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/App-Color-Gradient-React-/master/screencapture-localhost-3000-2021-12-05-19_45_54.png",
+        "images/portfolio/gradient.png"
+      ],
+      "url": "https://manuel-morales-color-gradient-app-react.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Dummy Text Generator",
+      "startDate": "2021",
+      "description": "An App to Generate Dummy Text similar to Lorem Ipsum",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/Dummy-Text-Generator/master/Ipsum.png",
+        "images/portfolio/dummy.png"
+      ],
+      "url": "https://dummy-text-generator-manuel-morales.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Skills Slider",
+      "startDate": "2021",
+      "description": "This Application show  my skills on an interactive carousel",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/React-App-Skills/master/MySkills.png",
+        "images/portfolio/skilled.png"
+      ],
+      "url": "https://manuel-morales-skilled.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Fast Food Web",
+      "startDate": "2020",
+      "description": "An application that simulates a fast food store.",
+      "images": ["images/portfolio/13.png", "images/portfolio/Hot.png"],
+      "url": "https://manuelmoralesfoodreactapp.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "My Teachers",
+      "startDate": "2020",
+      "description": "Here I show my main mentors",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/AppReact-MyTeachers/master/appteachers.png",
+        "images/portfolio/mozzy.png"
+      ],
+      "url": "https://appreact-manuelmorales-teachers.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "South American Tourism",
+      "startDate": "2021",
+      "description": "A app made it on React js for tourism in South America",
+      "images": ["images/portfolio/vene.png", "images/portfolio/colombia.png"],
+      "url": "https://reactapp-turismo-sudamerica.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Birtdays App",
+      "startDate": "2020",
+      "description": "A birtday app I made it on Reach js by following the course of coding addict on youtube, I put a form tha allows the user to put himself or whoever he/she want on the app",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/BirtdayApp-React/master/manuel-morales-birtday-app.netlify.app_%20(1).png",
+        "images/portfolio/Woohum.png"
+      ],
+      "url": "https://reactapp-turismo-sudamerica.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Bdegones Website",
+      "title": "Full Stack Developer",
+      "years": "10.2018 - 09.2021",
+      "mainTech": ["WordPress"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MySQL",
+        "Elementor",
+        "PHP",
+        "CSS"
+      ]
+    },
+    {
+      "company": "ISM Center",
+      "title": "Full Stack Developer",
+      "years": "09.2020 - current year",
+      "mainTech": ["WordPress"],
+      "technologies": ["RxJS", "JQuery", "PHP", "JavaScript", "CSS"]
+    }
+  ]
+}
