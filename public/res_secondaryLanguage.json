@@ -283,32 +283,27 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - obecnie",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "Bdegones Website",
+      "title": "Full Stack Developer",
+      "years": "10.2018 - 09.2021",
+      "mainTech": ["WordPress"],
       "technologies": [
         "REST API",
         "RxJS",
         "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        "Angular Material"
+        "MySQL",
+        "Elementor",
+        "PHP",
+        "CSS"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Stażystka",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "Swagger",
-        "JavaScript",
-        "DHTMLX Gantt"
-      ]
+      "company": "ISM Center",
+      "title": "Full Stack Developer",
+      "years": "09.2020 - Año Actual",
+      "mainTech": ["WordPress"],
+      "technologies": ["RxJS", "JQuery", "PHP", "JavaScript", "CSS"]
     }
   ]
 }
