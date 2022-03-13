@@ -12,14 +12,14 @@
   },
   "projects": [
     {
-      "title": "Car Insurance",
+      "title": "Budget App",
       "startDate": "2020",
-      "description": "An App to pick a Car Insurance.",
+      "description": "An App to calculate expenses.",
       "images": [
-        "https://raw.githubusercontent.com/Angstromico/React-Ensure-App/master/ensure.png",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "https://raw.githubusercontent.com/Angstromico/Budget-React/master/Budget.png",
+        "images/portfolio/budget.png"
       ],
-      "url": "https://manuel-morales-ensure-app-react.netlify.app/",
+      "url": "https://manuel-budget-calculator.app/",
       "technologies": [
         {
           "class": "devicon-react-plain",
