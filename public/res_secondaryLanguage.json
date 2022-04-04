@@ -11,6 +11,23 @@
   },
   "projects": [
     {
+      "title": "App de Consulta Veterinaria",
+      "startDate": "2020",
+      "description": "App para Administrar una consulta veterinaria ",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/Veterinarian-React/master/Veterinarian.png",
+        "https://raw.githubusercontent.com/Angstromico/Veterinarian-React/master/Veterinarian1.png",
+        "https://raw.githubusercontent.com/Angstromico/Veterinarian-React/master/Veterinarian2.png"
+      ],
+      "url": "https://manuel-budget-calculator.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    },
+    {
       "title": "App Presupuesto",
       "startDate": "2020",
       "description": "Una App para calcular gastos.",
