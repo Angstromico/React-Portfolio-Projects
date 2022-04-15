@@ -12,6 +12,22 @@
   },
   "projects": [
     {
+      "title": "Weather App",
+      "startDate": "2021",
+      "description": "App to see the weather according to the city and country",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/Weather-React/master/weather.png",
+        "images/portfolio/netherlands.png"
+      ],
+      "url": "https://manuel-budget-calculator.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    },
+    {
       "title": "Veterinary Consult App",
       "startDate": "2020",
       "description": "App to administer one veterinarian Shop",

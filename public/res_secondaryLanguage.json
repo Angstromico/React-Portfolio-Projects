@@ -11,6 +11,22 @@
   },
   "projects": [
     {
+      "title": "App Clima",
+      "startDate": "2021",
+      "description": "App para verificar el clima acorde a la ciudad y el país",
+      "images": [
+        "https://raw.githubusercontent.com/Angstromico/Weather-React/master/weather.png",
+        "images/portfolio/netherlands.png"
+      ],
+      "url": "https://manuel-budget-calculator.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        }
+      ]
+    },
+    {
       "title": "App de Consulta Veterinaria",
       "startDate": "2020",
       "description": "App para Administrar una consulta veterinaria ",
